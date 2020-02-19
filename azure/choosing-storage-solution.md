@@ -1,2 +1,0 @@
-# Choosing Storage Solution
-
