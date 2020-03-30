@@ -1,4 +1,4 @@
-# Software Architecture Pattern
+# Top 5 Software Architecture Patterns
 
 ## Layered (N-tier) Architecture
 
